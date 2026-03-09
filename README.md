@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Vithor
 
-<!--
-**vithorangello-commits/vithorangello-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Programador e profissional em inteligência artificial, focado em tecnologia e desenvolvimento de sistemas.  
+🚀 Experiência com Java, Python, C# e Lua.  
+🧠 Interesse em automação, lógica de programação e inteligência artificial.
 
-Here are some ideas to get you started:
+## 🛠 Tecnologias
+- Java
+- Python
+- C#
+- Lua
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Atualmente
+- Aprendendo novas tecnologias.
+- Concluindo cursos no Senai.
+- Aprimorando meu conhecimento em IA e Programação.
+
+## 🎯 Objetivo
+Evoluir constantemente como desenvolvedor e criar soluções úteis através do auxílio de forma inteligênte da IA e da programação.
+
+⭐ Sempre aprendendo, sempre construindo.
